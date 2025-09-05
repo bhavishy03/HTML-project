@@ -10,7 +10,7 @@ It showcases my **skills, projects, and services** as a **Web Developer & UI/UX 
 - Responsive **Navigation Bar** with hover effects  
 - **Hero Section** with introduction & call-to-action buttons  
 - **About Me Section** with image + description  
-- **Skills Section** with progress bars (HTML, CSS, JS, React)  
+- **Skills Section** with progress bars (HTML, CSS,)  
 - **Contact Form** with styled input fields  
 - Modern UI with hover animations & clean layout  
 
@@ -22,19 +22,13 @@ It showcases my **skills, projects, and services** as a **Web Developer & UI/UX 
 - **CSS3** – Styling & Animations  
 - **Font Awesome** (for icons)  
 
----
-
-## 📸 Preview
-
-![Portfolio Screenshot](screenshot.png)  
-*(replace with your actual screenshot)*
-
----
 
 ## 📂 Project Structure
 
-
----
+├── index.html # Main HTML file
+├── style.css # Stylesheet
+├── images/ # All project images (logo, skills icons, etc.)
+└── README.md # Project documentation
 
 ## 🔗 Live Demo
 
@@ -46,8 +40,9 @@ It showcases my **skills, projects, and services** as a **Web Developer & UI/UX 
 ## 📬 Contact
 
 - **Name**: Bhavishy  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com)  
+- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/bhavishy03/)  
 - **GitHub**: [github.com/bhavishy03](https://github.com/bhavishy03)  
 
 ---
 ✨ *This portfolio is continuously evolving as I learn and build new projects.*
+
