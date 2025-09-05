@@ -32,7 +32,7 @@ It showcases my **skills, projects, and services** as a **Web Developer & UI/UX 
 
 ## 🔗 Live Demo
 
-👉 [View Portfolio](https://your-username.github.io/HTML-project/)  
+👉 [View Portfolio](https://html-project-blond.vercel.app/)  
 *(replace with your deployed link if hosted on GitHub Pages or Netlify)*  
 
 ---
@@ -45,4 +45,5 @@ It showcases my **skills, projects, and services** as a **Web Developer & UI/UX 
 
 ---
 ✨ *This portfolio is continuously evolving as I learn and build new projects.*
+
 
