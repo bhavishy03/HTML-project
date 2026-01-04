@@ -24,12 +24,12 @@ It showcases my **skills, projects, and services** as a **Web Developer & UI/UX 
 
 
 ## 📂 Project Structure
-
+```
 ├── index.html # Main HTML file
 ├── style.css # Stylesheet
 ├── images/ # All project images (logo, skills icons, etc.)
 └── README.md # Project documentation
-
+```
 ## 🔗 Live Demo
 
 👉 [View Portfolio](https://html-project-blond.vercel.app/)  
@@ -45,5 +45,6 @@ It showcases my **skills, projects, and services** as a **Web Developer & UI/UX 
 
 ---
 ✨ *This portfolio is continuously evolving as I learn and build new projects.*
+
 
 
